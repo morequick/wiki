@@ -1,8 +1,10 @@
 # 秒开九维iTV
 
 ##### 为什么要加入秒开九维iTV合伙
-成为秒开九维维护商,马上拥有以下权益 :
+成为秒开九维维护商,马上拥有以下权益:
+
 秒开九维iTV云: https://mqitv.com
+
 招商联系: http://morequick.net/cooperation-itvcloud.html
 ```
 1. 免费使用云平台（酒店不限数量添加）
