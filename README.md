@@ -1,5 +1,7 @@
 # 秒开九维iTV
 
+** 项目已迁移到 http://ctc.morequick.cn:3000/scroot/mqitv_wiki **
+
 ##### 为什么要加入秒开九维iTV合伙
 成为秒开九维维护商,马上拥有以下权益:
 
